@@ -1,3 +1,4 @@
+//هذه فقط الفكرة المشروع لا زلت أعمل عليه
 #include <iostream>     //:الفكرة إستوحيتها من ->  "https://www.youtube.com/@introvert_programmer"  <-
 #include <string>
 
