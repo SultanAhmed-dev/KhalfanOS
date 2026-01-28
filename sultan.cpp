@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
-    cout<<"wellcom to SultanOS"<<endl;
+    cout<<"wellcom to KhalfanOS"<<endl;
     cout<<"if you want help write \"help\""<<endl;
     int x = 0;
     while(x < 1){         //لإبقاء النظام يعمل
@@ -15,7 +15,7 @@ int main(){
             cout<<"info: information for this OS.\n";   
             cout<<"exit: off the PC.\n\n";
         }else if(w == "info"){
-            cout<<"SultanOS Virsion 0.1\nThe maker of this OS is Sultan AL-Rashdi.\nThe link of his tube in the youtube:\"https://www.youtube.com/@SultanAL-Rashdi\"\n\n";
+            cout<<"KalfanOS Virsion 0.1\nThe maker of this OS is Sultan AL-Rashdi.\nThe link of his tube in the youtube:\"https://www.youtube.com/@SultanAL-Rashdi\"\n\n";
         }else if(w == "exit"){
             x = 2;
         }else {
