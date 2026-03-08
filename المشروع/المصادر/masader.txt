@@ -1,0 +1,3 @@
+قناة:"https://www.youtube.com/@introvert_programmer" تم استيحاء الفكرة وبعض المعلومات من الفيديو:"https://www.youtube.com/watch?v=R1MyUSLKD-Y"
+  الكتاب الذي في الملف تم استيحاء بعض المعلومات منه عن طريق الترجمة
+     حوحل جمناي(Google Gemini):"https://gemini.google.com/app" تم استيحاء بعض المعلومات منه و شرح الكتاب وكتابة كود الأسمبلي
